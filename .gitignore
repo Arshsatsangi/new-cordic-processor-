@@ -1,0 +1,18 @@
+# Simulation artifacts
+sim_build/
+*.pyc
+__pycache__/
+*.fst
+*.vcd
+*.xml
+*.out
+results.xml
+
+# macOS
+.DS_Store
+
+# OpenLane / Tiny Tapeout build artifacts
+runs/
+tt/
+tt_submission/
+gds_render.png
